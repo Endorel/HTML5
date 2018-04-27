@@ -1,2 +1,3 @@
 # HTML5
-HTML5-site
+## Issues  
+had to use important so wrapper-style wouldn't overwrite the media-query
