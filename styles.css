@@ -3,6 +3,7 @@ body {
     }
 
 div {
+    position: relative;
     margin: 0 auto;
 }
 
